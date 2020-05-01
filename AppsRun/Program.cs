@@ -9,6 +9,7 @@ namespace AppsRun
             Console.WriteLine("Hello World!");
             Console.ReadLine();
             Console.WriteLine("test");
+            Console.WriteLine("test2");
         }
     }
 }
